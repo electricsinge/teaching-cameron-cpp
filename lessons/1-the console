@@ -32,6 +32,4 @@ std::cout<<"hi";
 std::cin>>examplestring;
 //in C++ the user can write in the console by default
 //that means that if i write yo to respond to hi written by std::cout, std::cin(pronounced sine) will put "yo" in a variable
-
-//thats all for today!
 }
