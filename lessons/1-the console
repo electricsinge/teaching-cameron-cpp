@@ -1,1 +1,37 @@
+//the MOST IMPORTANT THING IN C++ TO KNOW IS IT IS A 1 LINE LANGUAGE
+//sure you might see lines to the side of this, but if i delete the lines, it will work just fine
+//this means add a semicolon after doing [most] things
 
+//you comment the same in js and c++(with two slashes)
+
+/*And if you want a multi-line comment start the comment with '/*' and end with '* and then a frontwards slash(I cant do it here because otherwise it will end this comment)
+
+you comment like you comment in js (i think)*/
+
+
+
+#include <iostream>
+//iostream is input-output so you kinda need to add that to the beggining of your code to do almost anything
+
+#include <string>
+//this is required to use the string variable type, which you will learn about later
+
+
+int(main)//int main is not declaring a variable it is showing what the main function is
+{
+int examplevariable=50;
+//declare a variable like this
+//int stands for intenger
+//intenger is a variable type, which you need to declare a variable
+//other variable types are booleans(which is written as bool), string, (but you need to add #include <string> to the beginning to use it)
+
+//now lets put this to practice :)
+
+string examplestring="";
+std::cout<<"hi";
+std::cin>>examplestring;
+//in C++ the user can write in the console by default
+//that means that if i write yo to respond to hi written by std::cout, std::cin(pronounced sine) will put "yo" in a variable
+
+//thats all for today!
+}
