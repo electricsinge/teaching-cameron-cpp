@@ -1,2 +1,2 @@
 # teaching-cameron-cpp
-I will teach you c++!
+Cameron, I will teach you C++!
