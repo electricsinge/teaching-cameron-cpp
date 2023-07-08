@@ -1,2 +1,2 @@
-# teaching-cameron-cpp
+# teaching-c++
 Cameron, I will teach you C++!
