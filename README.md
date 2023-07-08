@@ -1,2 +1,2 @@
 # teaching-c++
-Cameron, I will teach you C++!
+I will teach you the language of C++!
